@@ -3,27 +3,30 @@ import os
 
 def run_program() -> None:
     
-    show_menu()
+    show_instructions()
+    source_folder_path = get_source_folder()
+    
+    if not source_folder_path:
+        return
+    
+    # stooped here!
+    source_replica_folders_path = get_replica_folder(source_folder_path)
+    get_sync_interval()
+    return
 
 
-
-def show_menu() -> None:
+def show_instructions():
     
     show_message("welcome")
     show_message("instructions")
     pause_console()
-    
-    if get_folder_path():
-        get_sync_interval()
-    
-    return
-    
-    
-    
+
+
+
 def get_user_choice() -> bool:
     
     while True:
-        user_start_answer = input("\n\033[32mDo you want to continue? \n\nType \033[37m\"y\"\033[32m to proceed or \033[37m\"n\"\033[32m to close the program: \033[0m")
+        user_start_answer = input("\n\033[32mDo you want to continue? \n\nType \033[37m\"y\"\033[32m to proceed or \033[37m\"n\"\033[32m to close the program: \033[0m").strip()
         
         if user_start_answer == "y":
             return True
@@ -36,43 +39,65 @@ def get_user_choice() -> bool:
     
     
     
-def get_folder_path() -> bool:
+def get_source_folder() -> str | None:
     
-    user_choice = True
-    
-    while user_choice:
+    while True:
         
-        source_folder_path = input("\n\033[32mEnter the Source Folder Path: \033[0m")
+        source_folder_path = input("\n\033[32mEnter the Source Folder Path: \033[0m").strip()
         
         if verify_folder_path(source_folder_path):
-            
-            while user_choice:
-                
-                replica_folder_path = input("\n\033[32mEnter the Replica Folder Path: \033[0m")
-                
-                if replica_folder_path != source_folder_path and verify_folder_path(replica_folder_path):
-                    return True
-                else:
-                    print("\033[32mReplica Folder path same as Source Folder, inexistent or invalid.")
-                    user_choice = get_user_choice()
-                    if not user_choice:
-                        return False
-                if user_choice:
-                    clean_console()
-                
+            return source_folder_path        
         else:
             print("\033[32mSource Folder path inexistent or invalid.")
-            user_choice = get_user_choice()
-            if not user_choice:
-                return False
-            
-        if user_choice:
-            clean_console()
-            show_menu()
-        return False
+            if not get_user_choice():
+                return None
+            else:
+                clean_console()
+                show_instructions()
+                
+        
+    
+def get_replica_folder(source_folder_path: str) -> tuple[str, str] | None:
+    
+    while True:
+        
+        replica_folder_path = input("\n\033[32mEnter the Replica Folder Path: \033[0m").strip()
+        
+        if replica_folder_path != source_folder_path and verify_folder_path(replica_folder_path):
+            return source_folder_path, replica_folder_path
+        else:
+            print("\033[32mReplica Folder path same as Source Folder, inexistent or invalid.")
+            if not get_user_choice():
+                return None
+            else:
+                clean_console()
+                show_instructions()
+                
+        
+    
+    
+def get_log_folder(source_replica_paths: tuple[str, str]) -> str | None:
+    
+    source_folder_path, replica_folder_path = source_replica_paths
+    
+    while True:
+        
+        log_file_path = input("\n\033[32mEnter the Replica Folder Path: \033[0m").strip()
+        
+        if log_file_path != source_folder_path and log_file_path != replica_folder_path:
+            if verify_folder_path(log_file_path):
+                return log_file_path
+        else:
+            print("\033[32mLog File folder path same as Source/Replica Folder, inexistent or invalid.")
+            if not get_user_choice():
+                return None
+            else:
+                clean_console()
+                show_instructions()
+        
+        
     
 
-    
 def verify_folder_path(folder_path: str) -> bool:
     
     if not folder_path or folder_path.isspace():
@@ -86,7 +111,7 @@ def verify_folder_path(folder_path: str) -> bool:
     
 def get_sync_interval():
     
-    sync_interval = input("\n\033[32mEnter the Synchronization Interval: ")
+    sync_interval = input("\n\033[32mEnter the Synchronization Interval: ").strip()
 
 
 
@@ -100,12 +125,15 @@ def clean_console() -> None:
 
 def show_message(message: str) -> None:
     
-    separator = "---------------------------------------------"
+    separator = "-" * 100
+    title = "Welcome to your Personal Folders Sync Manager"
+    pad_right_title = title.rjust(10, " ")
+    
     match message:
         case "welcome":
-            print(f"\033[32m\n{separator}\nWelcome to your Personal Folders Sync Manager\n{separator}\n\033[0m")
+            print(f"\033[32m\n{separator}\n{title.center(len(separator))}\n{separator}\n\033[0m")
         case "instructions":
-            print("\033[32mYou will be asked to enter:\n\t--> the Source Folder Path, ex:\n\t\tsource_path/source_path/source_folder_name\n\n\t--> the Replica Folder Path, ex:\n\t\treplica_path/replica_path/replica_folder_name\n\n\t--> the Synchronization Interval Time or Day(s) with one (1) digit and one (1) letter:\n\t\t(h) for hours\n\t\t(d) for days\n\tex:\n\t\t1h (1 hour) \n\t\t1d (1 day)\033[0m")
+            print("\033[32mYou will be asked to enter:\n\n\t--> the Source Folder Path, ex:\n\t\t/source_path/source_path/source_folder_name\n\n\t--> the Replica Folder Path, ex:\n\t\t/replica_path/replica_path/replica_folder_name\n\n\t--> the Log File Path, ex:\n\t\t/log_path/log_path/log_file_path_name\n\n\t--> the Synchronization Interval Time or Day(s) with one (1) digit and one (1) letter:\n\t\t(h) for hours\n\t\t(d) for days\n\tex:\n\t\t1h (1 hour) \n\t\t1d (1 day)\033[0m")
         case "extensions":
             print("\033[32m--> The valid extensions are: ")
         
