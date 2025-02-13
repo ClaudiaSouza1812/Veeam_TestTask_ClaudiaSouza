@@ -1,31 +1,7 @@
 from pathlib import Path
 import os
+from Folders_Sync_Program.src.folders_sync import FoldersSync
 
-def run_program() -> None:
-    
-    show_instructions()
-    source_folder_path = get_source_folder()
-    
-    if not source_folder_path:
-        return
-    
-    replica_folder_path = get_replica_folder(source_folder_path)
-    
-    if not replica_folder_path:
-        return
-    
-    log_file_path = get_log_folder(source_folder_path, replica_folder_path)
-    
-    if not log_file_path:
-        return
-    
-    sync_interval = get_sync_interval()
-    
-    if not sync_interval:
-        return
-    
-    
-    return
 
 
 def show_instructions():
@@ -206,7 +182,6 @@ def show_message(message: str) -> None:
     
     separator = "-" * 100
     title = "Welcome to your Personal Folders Sync Manager"
-    pad_right_title = title.rjust(10, " ")
     
     match message:
         case "welcome":
@@ -226,9 +201,30 @@ def pause_console() -> None:
 
 def main():
 
-    run_program()
+    show_instructions()
+    source_folder_path = get_source_folder()
     
+    if not source_folder_path:
+        return
     
+    replica_folder_path = get_replica_folder(source_folder_path)
+    
+    if not replica_folder_path:
+        return
+    
+    log_file_path = get_log_folder(source_folder_path, replica_folder_path)
+    
+    if not log_file_path:
+        return
+    
+    sync_interval = get_sync_interval()
+    
+    if not sync_interval:
+        return
+    
+    sync_folders = FoldersSync(source_folder_path, replica_folder_path, log_file_path, sync_interval)
+    
+    sync_folders.run_folders_sync()
     
 if __name__ == "__main__":
     main() 

@@ -1,0 +1,13 @@
+2025-02-13 13:04:01: New synchronization: 
+2025-02-13 13:06:05: Searching files in source folder
+2025-02-13 13:10:01: Searching files in replica folder
+2025-02-13 13:11:00: Removing files that don't exist in source
+2025-02-13 13:11:57: Creating/Updating files
+2025-02-13 13:12:20: Synchronization completed successfully
+2025-02-13 13:14:53: Error: 'method_descriptor' object has no attribute 'sleep'
+2025-02-13 13:22:54: New synchronization
+2025-02-13 13:23:23: Searching files in source folder
+2025-02-13 13:23:35: Source folder is empty
+2025-02-13 13:23:41: Searching files in replica folder
+2025-02-13 13:23:48: Replica folder is empty
+2025-02-13 13:23:55: Both folders are empty. Nothing t synchronize
