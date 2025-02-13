@@ -1,13 +1,624 @@
-2025-02-13 13:04:01: New synchronization: 
-2025-02-13 13:06:05: Searching files in source folder
-2025-02-13 13:10:01: Searching files in replica folder
-2025-02-13 13:11:00: Removing files that don't exist in source
-2025-02-13 13:11:57: Creating/Updating files
-2025-02-13 13:12:20: Synchronization completed successfully
-2025-02-13 13:14:53: Error: 'method_descriptor' object has no attribute 'sleep'
-2025-02-13 13:22:54: New synchronization
-2025-02-13 13:23:23: Searching files in source folder
-2025-02-13 13:23:35: Source folder is empty
-2025-02-13 13:23:41: Searching files in replica folder
-2025-02-13 13:23:48: Replica folder is empty
-2025-02-13 13:23:55: Both folders are empty. Nothing t synchronize
+2025-02-13 16:49:07: New synchronization
+2025-02-13 16:49:07: Searching files in source folder
+2025-02-13 16:49:07: Source folder is empty
+2025-02-13 16:49:07: Searching files in replica folder
+2025-02-13 16:49:07: Replica folder is empty
+2025-02-13 16:49:07: Both folders are empty. Nothing to synchronize
+2025-02-13 16:50:07: New synchronization
+2025-02-13 16:50:07: Searching files in source folder
+2025-02-13 16:50:07: Source folder is empty
+2025-02-13 16:50:07: Searching files in replica folder
+2025-02-13 16:50:07: Replica folder is empty
+2025-02-13 16:50:07: Both folders are empty. Nothing to synchronize
+2025-02-13 16:51:08: 
+New synchronization
+2025-02-13 16:51:08: Searching files in source folder
+2025-02-13 16:51:08: Source folder is empty
+2025-02-13 16:51:08: Searching files in replica folder
+2025-02-13 16:51:08: Replica folder is empty
+2025-02-13 16:51:08: Both folders are empty. Nothing to synchronize
+2025-02-13 16:52:08: 
+New synchronization
+2025-02-13 16:52:08: Searching files in source folder
+2025-02-13 16:52:08: Source folder is empty
+2025-02-13 16:52:08: Searching files in replica folder
+2025-02-13 16:52:08: Replica folder is empty
+2025-02-13 16:52:08: Both folders are empty. Nothing to synchronize
+2025-02-13 16:53:08: 
+New synchronization
+2025-02-13 16:53:08: Searching files in source folder
+2025-02-13 16:53:08: Source folder is empty
+2025-02-13 16:53:08: Searching files in replica folder
+2025-02-13 16:53:08: Replica folder is empty
+2025-02-13 16:53:08: Both folders are empty. Nothing to synchronize
+2025-02-13 16:53:27: Synchronization stopped by user
+
+2025-02-13 16:55:06: New synchronization
+
+2025-02-13 16:55:06: Searching files in source folder
+
+2025-02-13 16:55:06: Source folder is empty
+
+2025-02-13 16:55:06: Searching files in replica folder
+
+2025-02-13 16:55:06: Replica folder is empty
+
+2025-02-13 16:55:06: Both folders are empty. Nothing to synchronize
+
+2025-02-13 16:55:36: New synchronization
+
+2025-02-13 16:55:36: Searching files in source folder
+
+2025-02-13 16:55:36: Source folder is empty
+
+2025-02-13 16:55:36: Searching files in replica folder
+
+2025-02-13 16:55:36: Replica folder is empty
+
+2025-02-13 16:55:36: Both folders are empty. Nothing to synchronize
+
+2025-02-13 16:56:06: New synchronization
+
+2025-02-13 16:56:06: Searching files in source folder
+
+2025-02-13 16:56:06: Source folder is empty
+
+2025-02-13 16:56:06: Searching files in replica folder
+
+2025-02-13 16:56:06: Replica folder is empty
+
+2025-02-13 16:56:06: Both folders are empty. Nothing to synchronize
+
+2025-02-13 16:56:18: Synchronization stopped by user
+2025-02-13 16:57:19: 
+New synchronization
+2025-02-13 16:57:19: Searching files in source folder
+2025-02-13 16:57:19: Source folder is empty
+2025-02-13 16:57:19: Searching files in replica folder
+2025-02-13 16:57:19: Replica folder is empty
+2025-02-13 16:57:19: Both folders are empty. Nothing to synchronize
+2025-02-13 16:57:49: 
+New synchronization
+2025-02-13 16:57:49: Searching files in source folder
+2025-02-13 16:57:49: Source folder is empty
+2025-02-13 16:57:49: Searching files in replica folder
+2025-02-13 16:57:49: Replica folder is empty
+2025-02-13 16:57:49: Both folders are empty. Nothing to synchronize
+2025-02-13 16:58:00: Synchronization stopped by user
+2025-02-13 16:58:04: --> New synchronization
+2025-02-13 16:58:04: Searching files in source folder
+2025-02-13 16:58:04: Source folder is empty
+2025-02-13 16:58:04: Searching files in replica folder
+2025-02-13 16:58:04: Replica folder is empty
+2025-02-13 16:58:04: Both folders are empty. Nothing to synchronize
+2025-02-13 16:58:34: --> New synchronization
+2025-02-13 16:58:34: Searching files in source folder
+2025-02-13 16:58:34: Source folder is empty
+2025-02-13 16:58:34: Searching files in replica folder
+2025-02-13 16:58:34: Replica folder is empty
+2025-02-13 16:58:34: Both folders are empty. Nothing to synchronize
+2025-02-13 16:59:04: --> New synchronization
+2025-02-13 16:59:04: Searching files in source folder
+2025-02-13 16:59:04: Source folder is empty
+2025-02-13 16:59:04: Searching files in replica folder
+2025-02-13 16:59:04: Replica folder is empty
+2025-02-13 16:59:04: Both folders are empty. Nothing to synchronize
+2025-02-13 16:59:09: Synchronization stopped by user
+2025-02-13 16:59:11: --> New synchronization <--
+2025-02-13 16:59:11: Searching files in source folder
+2025-02-13 16:59:11: Source folder is empty
+2025-02-13 16:59:11: Searching files in replica folder
+2025-02-13 16:59:11: Replica folder is empty
+2025-02-13 16:59:11: Both folders are empty. Nothing to synchronize
+2025-02-13 16:59:41: --> New synchronization <--
+2025-02-13 16:59:41: Searching files in source folder
+2025-02-13 16:59:41: Source folder is empty
+2025-02-13 16:59:41: Searching files in replica folder
+2025-02-13 16:59:41: Replica folder is empty
+2025-02-13 16:59:41: Both folders are empty. Nothing to synchronize
+2025-02-13 17:00:11: --> New synchronization <--
+2025-02-13 17:00:11: Searching files in source folder
+2025-02-13 17:00:11: Source folder is empty
+2025-02-13 17:00:11: Searching files in replica folder
+2025-02-13 17:00:11: Replica folder is empty
+2025-02-13 17:00:11: Both folders are empty. Nothing to synchronize
+2025-02-13 17:00:41: --> New synchronization <--
+2025-02-13 17:00:41: Searching files in source folder
+2025-02-13 17:00:41: Source folder is empty
+2025-02-13 17:00:41: Searching files in replica folder
+2025-02-13 17:00:41: Replica folder is empty
+2025-02-13 17:00:41: Both folders are empty. Nothing to synchronize
+2025-02-13 17:00:57: Synchronization stopped by user
+2025-02-13 17:01:34: [32m----> New synchronization <----[0m
+2025-02-13 17:01:34: [32mSearching files in source folder[0m
+2025-02-13 17:01:34: [32mSource folder is empty[0m
+2025-02-13 17:01:34: [32mSearching files in replica folder[0m
+2025-02-13 17:01:34: [32mReplica folder is empty[0m
+2025-02-13 17:01:34: [32mBoth folders are empty. Nothing to synchronize[0m
+2025-02-13 17:02:04: [32m----> New synchronization <----[0m
+2025-02-13 17:02:04: [32mSearching files in source folder[0m
+2025-02-13 17:02:04: [32mSource folder is empty[0m
+2025-02-13 17:02:04: [32mSearching files in replica folder[0m
+2025-02-13 17:02:04: [32mReplica folder is empty[0m
+2025-02-13 17:02:04: [32mBoth folders are empty. Nothing to synchronize[0m
+2025-02-13 17:02:34: [32m----> New synchronization <----[0m
+2025-02-13 17:02:34: [32mSearching files in source folder[0m
+2025-02-13 17:02:34: [32mSource folder is empty[0m
+2025-02-13 17:02:34: [32mSearching files in replica folder[0m
+2025-02-13 17:02:34: [32mReplica folder is empty[0m
+2025-02-13 17:02:34: [32mBoth folders are empty. Nothing to synchronize[0m
+2025-02-13 17:02:36: [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:02:38:[0m [32m----> New synchronization <----[0m
+[33m2025-02-13 17:02:38:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:02:38:[0m [32mSource folder is empty[0m
+[33m2025-02-13 17:02:38:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:02:38:[0m [32mReplica folder is empty[0m
+[33m2025-02-13 17:02:38:[0m [32mBoth folders are empty. Nothing to synchronize[0m
+[33m2025-02-13 17:03:08:[0m [32m----> New synchronization <----[0m
+[33m2025-02-13 17:03:08:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:03:08:[0m [32mSource folder is empty[0m
+[33m2025-02-13 17:03:08:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:03:08:[0m [32mReplica folder is empty[0m
+[33m2025-02-13 17:03:08:[0m [32mBoth folders are empty. Nothing to synchronize[0m
+[33m2025-02-13 17:03:17:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:04:30:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:04:30:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:04:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:04:30:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:04:30:[0m [32mReplica folder is empty[0m
+[33m2025-02-13 17:04:30:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:04:30:[0m [32mError during synchronization: FoldersSync.update_files() missing 1 required positional argument: 'files_to_check'[0m
+[33m2025-02-13 17:05:00:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:05:00:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:05:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:05:00:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:05:00:[0m [32mReplica folder is empty[0m
+[33m2025-02-13 17:05:00:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:05:00:[0m [32mError during synchronization: FoldersSync.update_files() missing 1 required positional argument: 'files_to_check'[0m
+[33m2025-02-13 17:05:05:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:10:30:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:10:30:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:10:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:10:30:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:10:30:[0m [32mReplica folder is empty[0m
+[33m2025-02-13 17:10:30:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:10:30:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:10:30:[0m [32mCreated: test01.txt[0m
+[33m2025-02-13 17:10:30:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:11:00:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:11:00:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:11:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:11:00:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:11:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:11:00:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:11:00:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:11:00:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:11:00:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:11:30:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:11:30:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:11:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:11:30:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:11:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:11:30:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:11:30:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:11:30:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:11:30:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:12:00:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:12:00:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:12:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:12:00:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:12:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:12:00:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:12:00:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:12:00:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:12:00:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:12:30:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:12:30:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:12:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:12:30:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:12:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:12:30:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:12:30:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:12:30:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:12:30:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:13:00:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:13:00:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:13:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:13:00:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:13:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:13:00:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:13:00:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:13:00:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:13:00:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:13:30:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:13:30:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:13:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:13:30:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:13:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:13:30:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:13:30:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:13:30:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:13:30:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:14:00:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:14:00:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:14:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:14:00:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:14:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:14:00:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:14:00:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:14:00:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:14:00:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:14:30:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:14:30:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:14:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:14:30:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:14:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:14:30:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:14:30:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:14:30:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:14:30:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:15:00:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:15:00:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:15:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:15:00:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:15:00:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:15:00:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:15:00:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:15:00:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:15:00:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:15:30:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:15:30:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:15:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:15:30:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:15:30:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:15:30:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:15:30:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:15:30:[0m [32mUpdated: test01.txt[0m
+[33m2025-02-13 17:15:30:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:15:38:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:21:02:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:21:02:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:21:02:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:21:02:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:21:02:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:21:02:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:21:02:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:21:02:[0m [32mError during synchronization: [Errno 21] Is a directory: '/Users/Administrador/Documents/GitHub/Veeam_TestTask_ClaudiaSouza/Source_Folder'[0m
+[33m2025-02-13 17:21:32:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:21:32:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:21:32:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:21:32:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:21:32:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:21:32:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:21:32:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:21:32:[0m [32mError during synchronization: [Errno 21] Is a directory: '/Users/Administrador/Documents/GitHub/Veeam_TestTask_ClaudiaSouza/Source_Folder'[0m
+[33m2025-02-13 17:21:47:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:25:21:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:25:21:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:25:21:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:25:21:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:25:21:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:25:21:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:25:21:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:25:21:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:25:37:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:26:56:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:26:56:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:26:56:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:26:56:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:26:56:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:26:56:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:26:56:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:26:56:[0m [32mThe files don't have changes[0m
+[33m2025-02-13 17:26:56:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:27:06:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:29:04:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:29:04:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:29:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:29:04:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:29:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:29:04:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:29:04:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:29:04:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:29:04:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:29:34:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:29:34:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:29:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:29:34:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:29:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:29:34:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:29:34:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:29:34:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:29:34:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:29:54:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:30:28:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:30:28:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:30:28:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:30:28:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:30:28:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:30:28:[0m [32mRemoving files that don't exist in source[0m
+[33m2025-02-13 17:30:28:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:30:28:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:30:28:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:30:39:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:36:34:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:36:34:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:36:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:36:34:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:36:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:36:34:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:36:34:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:36:34:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:36:34:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:37:04:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:37:04:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:37:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:37:04:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:37:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:37:04:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:37:04:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:37:04:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:37:04:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:37:34:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:37:34:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:37:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:37:34:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:37:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:37:34:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:37:34:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:37:34:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:37:34:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:38:04:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:38:04:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:38:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:38:04:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:38:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:38:04:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:38:04:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:38:04:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:38:04:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:38:34:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:38:34:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:38:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:38:34:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:38:34:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:38:34:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:38:34:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:38:34:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:38:34:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:39:04:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:39:04:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:39:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:39:04:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:39:04:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:39:04:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:39:04:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:39:04:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:39:04:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:39:18:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:39:20:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:39:20:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:39:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:39:20:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:39:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:39:20:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:39:20:[0m [32mNo files to remove[0m
+[33m2025-02-13 17:39:20:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:39:20:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:39:20:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:39:50:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:39:50:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:39:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:39:50:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:39:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:39:50:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:39:50:[0m [32mNo files to remove[0m
+[33m2025-02-13 17:39:50:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:39:50:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:39:50:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:40:20:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:40:20:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:40:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:40:20:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:40:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:40:20:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:40:20:[0m [32mNo files to remove[0m
+[33m2025-02-13 17:40:20:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:40:20:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:40:20:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:40:48:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:40:50:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:40:50:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:40:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:40:50:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:40:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:40:50:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:40:50:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:40:50:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:40:50:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:40:50:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:41:20:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:41:20:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:41:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:41:20:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:41:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:41:20:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:41:20:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:41:20:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:41:20:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:41:20:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:41:50:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:41:50:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:41:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:41:50:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:41:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:41:50:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:41:50:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:41:50:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:41:50:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:41:50:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:42:20:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:42:20:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:42:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:42:20:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:42:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:42:20:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:42:20:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:42:20:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:42:20:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:42:20:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:42:50:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:42:50:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:42:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:42:50:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:42:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:42:50:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:42:50:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:42:50:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:42:50:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:42:50:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:43:20:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:43:20:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:43:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:43:20:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:43:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:43:20:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:43:20:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:43:20:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:43:20:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:43:20:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:43:50:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:43:50:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:43:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:43:50:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:43:50:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:43:50:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:43:50:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:43:50:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:43:50:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:43:50:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:44:20:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:44:20:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:44:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:44:20:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:44:20:[0m [32mFile founded: test01.txt[0m
+[33m2025-02-13 17:44:20:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:44:20:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:44:20:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:44:20:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:44:20:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:44:27:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:44:29:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:44:29:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:44:29:[0m [32mFile found: [0mtest01.txt[33m[0m
+[33m2025-02-13 17:44:29:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:44:29:[0m [32mFile found: [0mtest01.txt[33m[0m
+[33m2025-02-13 17:44:29:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:44:29:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:44:29:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:44:29:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:44:29:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:44:59:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:44:59:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:44:59:[0m [32mFile found: [0mtest01.txt[33m[0m
+[33m2025-02-13 17:44:59:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:44:59:[0m [32mFile found: [0mtest01.txt[33m[0m
+[33m2025-02-13 17:44:59:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:44:59:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:44:59:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:44:59:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:44:59:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:45:29:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:45:29:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:45:29:[0m [32mFile found: [0mtest01.txt[33m[0m
+[33m2025-02-13 17:45:29:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:45:29:[0m [32mFile found: [0mtest01.txt[33m[0m
+[33m2025-02-13 17:45:29:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:45:29:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:45:29:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:45:29:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:45:29:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:45:51:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:46:05:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:46:05:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:46:05:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:46:05:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:46:05:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:46:05:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:46:05:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:46:05:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:46:05:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:46:05:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:46:35:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:46:35:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:46:35:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:46:35:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:46:35:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:46:35:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:46:35:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:46:35:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:46:35:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:46:35:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:47:05:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:47:05:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:47:05:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:47:05:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:47:05:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:47:05:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:47:05:[0m [32mNo files removd from the Source to performe a removal[0m
+[33m2025-02-13 17:47:05:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:47:05:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:47:05:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:47:18:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:47:19:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:47:19:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:47:19:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:47:19:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:47:19:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:47:19:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:47:19:[0m [32mNo files removed from the Source to performe a removal[0m
+[33m2025-02-13 17:47:19:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:47:19:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:47:19:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:47:49:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:47:49:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:47:49:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:47:49:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:47:49:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:47:49:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:47:49:[0m [32mNo files removed from the Source to performe a removal[0m
+[33m2025-02-13 17:47:49:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:47:49:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:47:49:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:47:59:[0m [32mSynchronization stopped by user[0m
+[33m2025-02-13 17:51:13:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:51:13:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:51:13:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:51:13:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:51:13:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:51:13:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:51:13:[0m [32mNo files removed from the Source to performe a removal[0m
+[33m2025-02-13 17:51:13:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:51:13:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:51:13:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:51:43:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:51:43:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:51:43:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:51:43:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:51:43:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:51:43:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:51:43:[0m [32mNo files removed from the Source to performe a removal[0m
+[33m2025-02-13 17:51:43:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:51:43:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:51:43:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:52:13:[0m [32m-----> New synchronization <-----[0m
+[33m2025-02-13 17:52:13:[0m [32mSearching files in source folder[0m
+[33m2025-02-13 17:52:13:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:52:13:[0m [32mSearching files in replica folder[0m
+[33m2025-02-13 17:52:13:[0m [32mFile found: [0mtest01.txt[0m
+[33m2025-02-13 17:52:13:[0m [32mLooking for file to remove[0m
+[33m2025-02-13 17:52:13:[0m [32mNo files removed from the Source to performe a removal[0m
+[33m2025-02-13 17:52:13:[0m [32mCreating/Updating files[0m
+[33m2025-02-13 17:52:13:[0m [32mThe files don't have changes to perform an update[0m
+[33m2025-02-13 17:52:13:[0m [32mSynchronization completed successfully[0m
+[33m2025-02-13 17:52:16:[0m [32mSynchronization stopped by user[0m
