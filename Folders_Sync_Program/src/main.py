@@ -1,10 +1,19 @@
+"""
+Command-line interface for the folder synchronization program.
+
+This script provides a command-line interface to run folder synchronization,
+handling argument parsing, input validation, and program execution.
+"""
+
 import argparse
 from pathlib import Path
 from folders_sync import FoldersSync
 
 
-
-def define_input_parser():
+def define_input_parser() -> argparse.ArgumentParser:
+    """
+    Create and configure the command-line argument parser.
+    """
     
     input_parser = argparse.ArgumentParser(description="Folder Synchronization Program")
     input_parser.add_argument(dest="source_folder_path", type=Path, help="Path to Source Folder")
@@ -17,6 +26,9 @@ def define_input_parser():
 
 
 def check_folder_path(folder_path: str) -> bool:
+    """
+    Verify if a path exists and if it is a directory.
+    """
     
     if not folder_path or folder_path.isspace():
         return False
@@ -27,7 +39,16 @@ def check_folder_path(folder_path: str) -> bool:
 
 
 
-def validate_paths(user_inputs) -> bool:
+def validate_paths(user_inputs: argparse.Namespace) -> bool:
+    """
+    Validate paths and synch interval provided.
+    1. Source folder exists
+    2. Replica folder exists
+    3. Source and replica folders are different
+    4. Log file directory exists
+    5. Log file is not in source or replica folders
+    6. Sync interval is positive
+    """
     
     if not check_folder_path(str(user_inputs.source_folder_path)):
         print("Error: Source Folder Path doesn't exist")
@@ -58,6 +79,11 @@ def validate_paths(user_inputs) -> bool:
 
 
 def main():
+    """
+    Start of the folder synchronization program.
+    Receive command-line arguments, validates the inputs and starts the
+    sync process if all good.
+    """
     
     input_parser = define_input_parser()
     
