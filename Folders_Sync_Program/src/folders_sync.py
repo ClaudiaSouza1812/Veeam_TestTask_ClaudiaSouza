@@ -2,6 +2,7 @@ from datetime import datetime
 import time
 from pathlib import Path
 import shutil
+import re
 
 class FoldersSync:
     
@@ -29,8 +30,11 @@ class FoldersSync:
                 if file.is_file():
                     file_path = file.relative_to(folder)
                     files_to_update.add(file_path)
-                    self.update_log_file(f"File found: \033[0m{file_path}")
-        
+            
+            if files_to_update:
+                files_list = ", ".join(sorted(str(file) for file in files_to_update))
+                self.update_log_file(f"Files found: \033[0m{files_list}")
+            
             return files_to_update
         
         except Exception as error:
@@ -41,20 +45,20 @@ class FoldersSync:
     
     def check_folders_files(self) -> tuple[set[Path], set[Path]] | None:
          
-        self.update_log_file("Searching files in source folder")
+        self.update_log_file("Searching files in Source folder")
         source_folder_files = self.get_files(self.source_folder_path)
         
         if not source_folder_files:
             self.update_log_file("Source folder is empty")
         
-        self.update_log_file("Searching files in replica folder")
+        self.update_log_file("Searching files in Replica folder")
         replica_folder_files = self.get_files(self.replica_folder_path)
         
         if not replica_folder_files:
             self.update_log_file("Replica folder is empty")
             
         if not source_folder_files and not replica_folder_files:
-            self.update_log_file("Both folders are empty. Nothing to synchronize")
+            self.update_log_file("Both folders are empty, nothing to synchronize")
             return None
         
         return source_folder_files, replica_folder_files
@@ -63,22 +67,21 @@ class FoldersSync:
     
     def remove_files(self, files_to_delete: set[Path]) -> None:
         
-        self.update_log_file("Looking for file to remove")
+        self.update_log_file("Looking for files to remove")
         
         if not files_to_delete:
-            self.update_log_file(f"No files removed from the Source to performe a removal")
             return
         
         for file_path in files_to_delete:
             replica_file = self.replica_folder_path / file_path
             replica_file.unlink()
-            self.update_log_file(f"Deleted: {file_path}")
+            self.update_log_file(f"Deleted: \033[0m{file_path}")
     
         
         
     def update_files(self, files_to_create: set[Path], files_to_check: set[Path]) -> None:
         
-        self.update_log_file("Creating/Updating files")
+        self.update_log_file("Creating / Updating files")
         
         for file_path in (files_to_create):
             source_file = self.source_folder_path / file_path
@@ -86,7 +89,7 @@ class FoldersSync:
             
             replica_file.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(source_file, replica_file)
-            self.update_log_file(f"Created: {file_path}")
+            self.update_log_file(f"Created: \033[0m{file_path}")
         
         for file_path in files_to_check:
             source_file = self.source_folder_path / file_path
@@ -95,9 +98,8 @@ class FoldersSync:
             if source_file.stat().st_mtime != replica_file.stat().st_mtime:
                 replica_file.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(source_file, replica_file)
-                self.update_log_file(f"Updated: {file_path}")
-            else:
-                self.update_log_file(f"The files don't have changes to perform an update")
+                self.update_log_file(f"Updated: \033[0m{file_path}")
+            
             
             
         
@@ -109,14 +111,16 @@ class FoldersSync:
         
         self.log_file_path.parent.mkdir(parents=True, exist_ok=True)
         
+        clean_message = re.compile(r"\033\[[0-9;]*[mGKH]")
+        
         with open(self.log_file_path, "a", encoding="utf-8") as file:
-            file.write(log_message)
+            file.write(clean_message.sub("", log_message))
     
     
  
     def sync_folders(self) -> None:
         
-        self.update_log_file("-----> New synchronization <-----")
+        self.update_log_file("\033[32m----->\033[33m New synchronization \033[32m<-----\033[33m")
 
         try:
             folders_files = self.check_folders_files()
